@@ -1,3 +1,4 @@
+# Explain this Code use step by step and show in test_image
 # Library 
 import cv2 
 import numpy as np 
